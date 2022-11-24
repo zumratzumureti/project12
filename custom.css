@@ -1,0 +1,33 @@
+
+body{
+    background-color:cornsilk;
+  
+}
+h1{
+    text-size-adjust:25;
+    text-shadow:3px;
+    font-style:italic;
+    ;
+}
+h2{
+    text-size-adjust: 50px;
+    text-shadow: 2px;
+    font-style: italic;
+
+
+}
+  
+  .bg {
+    background-image: url("bookheader.jpeg");
+    height: 50%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
